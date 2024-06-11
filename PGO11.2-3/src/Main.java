@@ -31,7 +31,7 @@ public class Main {
         przedmioty2.add(new Item(11, "komputer"));
         przedmioty2.add(new Item(12, "myszka"));
         przedmioty2.add(new Item(13, "kalkulator"));
-        przedmioty2.add(new Item(14, "ręcznik"));
+        przedmioty2.add(new Item(14, "koc"));
         przedmioty2.add(new Item(15, "wstążka"));
 
         List<Item> przedmioty3 = przedmioty2.subList(0, 4);
